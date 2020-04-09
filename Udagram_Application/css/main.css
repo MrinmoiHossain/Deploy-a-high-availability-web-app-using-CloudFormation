@@ -1,0 +1,12 @@
+.full-width{
+    margin: 0px;
+    background-image: url('../img/Baltic_Shore_Germany.jpg');
+    height: 100%;
+}
+.main-content{
+    text-align: center;
+    margin-top: 30%;
+    font-family: initial;
+    font-style: italic;
+    font-size: 70px;
+}
